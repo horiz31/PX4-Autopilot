@@ -54,11 +54,9 @@
 
 /* Clocking *************************************************************************/
 
-/* On-board crystal frequency is 24MHz (HSE) */
+/* On-board crystal frequency is 8MHz (HSE) */
 
 #define STM32_BOARD_XTAL        8000000ul
-
-#define RCC_APB1ENR_TIM2EN RCC_APB1LENR_TIM12EN
 
 /* Use the HSE output as the system clock */
 
