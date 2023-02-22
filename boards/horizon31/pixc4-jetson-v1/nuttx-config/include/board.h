@@ -1,5 +1,5 @@
 /************************************************************************************
- * nuttx-configs/holybro/durandal-v1/include/board.h
+ * nuttx-configs/horizon31/pixc4-jetson-v1/include/board.h
  *
  *   Copyright (C) 2016-2019 Gregory Nutt. All rights reserved.
  *   Authors: David Sidrane <david.sidrane@nscdg.com>
